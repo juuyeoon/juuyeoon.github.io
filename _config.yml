@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Juyeon IM"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/IMG_3635.jpg
   bio              : "모두의연구소 교육기획\n 연세대학교 교육대학원 교육공학전공\n 개발이 취미인 취미부자!"
   location         : "Seoul, SouthKorea"
   email            :
