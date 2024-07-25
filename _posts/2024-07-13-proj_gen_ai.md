@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Gemini로 만드는 음성인식 프로젝트 (1)"
 ---
 
