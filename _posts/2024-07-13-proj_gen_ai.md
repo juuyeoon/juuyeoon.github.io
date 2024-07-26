@@ -3,9 +3,8 @@ layout: single
 title: "Gemini와 WhisperAI로 만드는 음성인식 프로젝트 (1)"
 ---
 
-# AccentAce - Gemini와 WhisperAI로 만드는 영어 학습 보조 도구
 
-## Gemini와 WhisperAI로 만드는 음성인식 프로젝트 (1) - 기능 상세와 프롬프트 작성
+## AccentAce - Gemini와 WhisperAI로 만드는 영어 학습 보조 도구
 
 ## 프로젝트 개요
 
