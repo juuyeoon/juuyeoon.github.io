@@ -5,7 +5,8 @@ title: "Gemini와 WhisperAI로 만드는 음성인식 프로젝트 (1)"
 
 # AccentAce - Gemini와 WhisperAI로 만드는 영어 학습 보조 도구
 
-**# Gemini와 WhisperAI로 만드는 음성인식 프로젝트 (1) - 기능 상세와 프롬프트 작성
+**
+## Gemini와 WhisperAI로 만드는 음성인식 프로젝트 (1) - 기능 상세와 프롬프트 작성
 
 ## 프로젝트 개요
 
@@ -17,9 +18,7 @@ title: "Gemini와 WhisperAI로 만드는 음성인식 프로젝트 (1)"
 
 영어교육에서 사람이 하기 어려운 일이 무엇이 있을까? 하다가, 외국어로의 영어 교육 (모국어가 영어가 아닌 나라에서 진행하는 영어 교육, 우리나라처럼!) 에서 영어교육을 할 때에는 '발음 교육' 이 가장 큰 문제겠구나 하는 생각에 다다르게 되었다.
 
-https://www.instagram.com/reel/C7Q7MMcxqy6/?igsh=MTJobjlxZzJ3eXV4aQ==
-
-(최근 영어 발음 관련한 짤 중에 가장 크게 웃었던 것)
+[최근 영어 발음 관련한 짤 중에 가장 크게 웃었던 것](https://www.instagram.com/reel/C7Q7MMcxqy6/?igsh=MTJobjlxZzJ3eXV4aQ==)
 
 
 
@@ -43,7 +42,7 @@ Gemini
 
 
 
-![image-20240725121152788](/Users/juyeon/Library/Application Support/typora-user-images/image-20240725121152788.png)
+![image-20240725121152788](https://github.com/user-attachments/assets/0047f34d-71c2-4b3d-bd67-6d55938db6ae)
 
 다음과 같이 서비스가 꼭 가져야 할 기능들을 작성해 보았다. 조건을 통해 진행해야 하는 내용이 있으면 가지를 동일한 수준에서 여러 개 치고, 조건들까지 적어보았다.
 
