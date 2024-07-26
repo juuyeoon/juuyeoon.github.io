@@ -55,9 +55,9 @@ Gemini
 
 작성한 기술들의 요구사항을 바탕으로, Gemini에 프롬프트를 작성하기 시작했다.
 
-[image](https://github.com/user-attachments/assets/21e18126-9602-4594-b964-0d620f906934)
+![image](https://github.com/user-attachments/assets/21e18126-9602-4594-b964-0d620f906934)
 
-[image](https://github.com/user-attachments/assets/035855f9-825e-4dc7-af6a-1a378e57f6f4)
+![image](https://github.com/user-attachments/assets/035855f9-825e-4dc7-af6a-1a378e57f6f4)
 
 강의 내용 중 학습했던 softmax 함수를 기반으로 해당 프로젝트를 진행해야 했기 때문에, 어떻게 포함해서 진행할 수 있을지 조금 자세하게 프롬프트를 작성해 보았다. Gemini가 칭찬도 해주고 (?) 다음과 같이 답을 주었다.
 
@@ -65,6 +65,6 @@ Gemini
 
 
 
-[image](https://github.com/user-attachments/assets/e8bd3ad7-a524-45c7-8059-d995bdf21c42)
+![image](https://github.com/user-attachments/assets/e8bd3ad7-a524-45c7-8059-d995bdf21c42)
 
 그리고 아주 당당하게 코드로 써달라고 했다 😂
