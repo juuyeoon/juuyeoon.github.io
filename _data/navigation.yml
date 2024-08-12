@@ -25,3 +25,6 @@ docs:
     - title: "파이썬과 자바스크립트로 배우는 OpenAI 프로그래밍"
       url: /categories/pyjsai
       category: "Py_JS_AI"
+  - title: "Conference"
+    url: /conf
+    category: "Conference"
